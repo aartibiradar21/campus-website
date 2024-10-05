@@ -11,7 +11,7 @@ const Header = () => {
                 <div className='header-menu'>
             <div className='aboutus'>About Us</div>
             <div className='school'>School</div>
-            <div className='digital-initiatives'>Digital-Initiatives'</div>
+            <div className='digital-initiatives'>Digital-Initiatives</div>
             <div className='get-involved'>Get Involved</div>
             </div>
             <div className='info-cloumn'>

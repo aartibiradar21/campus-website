@@ -1,0 +1,40 @@
+
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.donation-header {
+    margin: auto;
+    max-width: 1200px;
+}
+
+.donation-header h1 {
+    font-size: 32px;
+    line-height: 41.6px;
+    text-align: center;
+
+}
+
+.donation-header p {
+    margin: 10px 0;
+    color: #555;
+}
+
+
+.main-column {
+    /* padding: 20px; */
+    margin: auto;
+    max-width: 1200px;
+}
+
+
+
+.main-form {
+    display: flex;
+}
+
+.form-ckeck1 {
+    margin-right: 10px;
+}
+
