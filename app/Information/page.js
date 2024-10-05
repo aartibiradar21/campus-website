@@ -1,12 +1,12 @@
-
 // Page.js
 import React from 'react';
-import Header from './Header.js'; 
+import Donation from './Donation';
+
 
 const Page = () => {
   return (
     <div>
-      <Header />
+      <Donation/>
     </div>
   );
 };
