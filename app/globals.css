@@ -1,0 +1,75 @@
+<<<<<<< HEAD
+=======
+.header{
+  border: 1px solid black;
+  height:74px;
+  width: 100%;
+  display: flex;
+}
+.logo{
+  height: 58px;
+}
+.header-items{
+  border:1px solid red;
+  width: 100%;
+  height: 48px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 13px;
+}
+.header-menu{
+  border: 1px solid black;
+  width: 583px;
+  display: flex;
+  justify-content: space-between;
+  
+}
+.aboutus{
+  border:1px solid black;
+  width:130px;
+  text-align: center;
+  line-height: 38px;
+}
+.school{
+  border:1px solid black;
+  width:136px;
+  text-align: center;
+  line-height: 38px;
+}
+.digital-initiatives{
+  border:1px solid black;
+  width:162px;
+  text-align: center;
+  line-height: 38px;
+}
+.get-involved{
+  border:1px solid black;
+  width:130px;
+  text-align: center;
+  line-height: 38px;
+}
+.info-cloumn{
+  border: 1px solid red;
+  width: 468px;
+  display: flex;
+  justify-content: space-between;
+}
+.hire{
+  width:135px;
+  border: 1px solid black;
+  text-align: center;
+  line-height: 38px;
+}
+.enquiries{
+  width:135px;
+  border: 1px solid black;
+  text-align: center;
+  line-height: 38px;
+}
+.donate{
+  width:135px;
+  border: 1px solid black;
+  text-align: center;
+  line-height: 38px;
+}
+>>>>>>> origin/master
