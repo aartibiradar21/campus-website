@@ -1,11 +1,12 @@
 // Page.js
 import React from 'react';
+import Donation from './Donation';
 
 
 const Page = () => {
   return (
     <div>
-      <p>hiiii</p>
+      <Donation/>
     </div>
   );
 };
