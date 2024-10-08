@@ -53,12 +53,14 @@
     color: #fff;
     border-radius: 8px;
     font-weight: 700;
+    margin-bottom: 50px;
     height: 48px;
 }
 
 .contact-btn:hover {
     background-color: #ff4519;
 }
+
 
 @media (max-width: 768px) {
     .donation-header h1 {

@@ -1,4 +1,9 @@
 
+
+* {
+  box-sizing: border-box;
+}
+
 .header{
   /* border: 1px solid black; */
   height:74px;
@@ -143,4 +148,94 @@
 /* Dropdown should appear when the state is toggled */
 .header-menu .dropdown.show {
   display: block;
+}
+
+
+
+/* Footer */
+.footer {
+  background-color: #f8d8cc;
+  padding: 40px 0;
+  font-family: Arial, sans-serif;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  max-width: 1200px;
+  flex-wrap: wrap;
+  grid-gap: 16px;
+  gap: 16px;
+  padding-bottom: 20px;
+}
+
+.logo-section {
+  max-width: 300px;
+}
+
+.logo-section p {
+  margin: 5px 0;
+}
+
+.footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  /* gap: 30px; */
+}
+
+.footer-column {
+  flex: 1;
+  min-width: 150px;
+}
+
+.footer-column h4 {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.footer-column ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-column ul li {
+  margin-bottom: 8px;
+}
+
+.footer-column ul li a {
+  text-decoration: none;
+  color: #333;
+}
+
+.footer-column ul li a:hover {
+  text-decoration: underline;
+}
+
+.footer-bottom {
+  text-align: center;
+  margin-top: 20px;
+  border-top: 1px solid #949494;
+  padding-top: 20px;
+  max-width: 1200px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-bottom p {
+  margin: 0;
+}
+
+.footer-bottom a {
+  color: #333;
+  text-decoration: none;
+}
+
+.footer-bottom a:hover {
+  text-decoration: underline;
+}
+
+.link{
+  color: rgb(235, 95, 66);
 }
